@@ -1,3 +1,4 @@
+
 # Have You Met Linda?
 
 ## License:
@@ -24,7 +25,9 @@ To download this program you will need to do a git pull as well as install npm i
 
 ## Usage:
 
-This will help for corporations who want to list their employees and their titles. 
+This will help for corporations who want to list their employees and their titles. The following image is an example of what your team profiles could look like: 
+![Screenshot 2022-08-03 153420](https://user-images.githubusercontent.com/101831653/182706537-08ed8ad8-bc8a-42f2-b6db-af7ba636a519.png)
+
 ## License:
 
 None
