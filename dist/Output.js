@@ -1,1 +1,0 @@
-// Rendered output (HTML) and CSS Style Sheet (install bootstrap)
