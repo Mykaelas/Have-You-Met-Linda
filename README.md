@@ -8,6 +8,7 @@ None at this time
 ## Table of Contents
 
 - [Description](#description)
+- [Languages](#languages)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -18,6 +19,15 @@ None at this time
 ## Description:
 
 Are you a manager and want to have a site to display their information to the product, if so this app is for you. All you need to do is to answer a few quick questions about yourself and your employees to have a brief profile made of them. 
+
+## Languages:
+- HTML
+- CSS
+- JavaScript
+- NodeJS
+- Inquirer
+- Jest
+- GitHub
 
 ## Installation:
 
